@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MIDIPlayerMac</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Mon, 14 Sep 2026 08:02:03 +0200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.3/MIDIPlayerMac-v1.0.3.zip" length="5512069" type="application/octet-stream" sparkle:edSignature="aTYm9R3UNAljt7rWCRs8NOiea2kFk9fQyE+0fwO7keTJ7SrvNJnh1YULra76CE3lt6xv3VfUt1xvke768RqVBw=="></enclosure>
+            <title>1.0.5</title>
+            <pubDate>Tue, 29 Sep 2026 12:27:07 +0200</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.5/MIDIPlayerMac-v1.0.5.zip" length="5286210" type="application/octet-stream" sparkle:edSignature="rWT2M1p/eX5SpoTqNXHFB9kXzL5M3yh1XLbyXFqwL3oMAzgzHp/kGk/xrKnnPYYa0XqWRU9vnLYDF7eMT5zWBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 3nHtZNBZ+N+hv/v9t+WUi8wcNaBRe2HfxFrv+MWDlkaACXQRGdejzgdAtSTb32vtWzJfbMudsQzpkRHLv6qeDg==
-length: 1066
+edSignature: CF+wrnvgGElhpdYDZLNa6oEtFSTMCChJtYlMPtZvJeAe8/KHqf+DYqT+thgodEU04sena9kVOaBE86IKF6BkDQ==
+length: 1067
 -->
