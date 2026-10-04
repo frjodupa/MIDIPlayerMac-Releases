@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MIDIPlayerMac</title>
         <item>
-            <title>1.0.18</title>
-            <pubDate>Sun, 04 Oct 2026 11:20:13 +0200</pubDate>
-            <sparkle:version>77</sparkle:version>
-            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            <title>1.0.19</title>
+            <pubDate>Sun, 04 Oct 2026 12:29:04 +0200</pubDate>
+            <sparkle:version>78</sparkle:version>
+            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.18-b77-bigsur-icon-candidate/MIDIPlayerMac-v1.0.18-b77-bigsur-icon-candidate.zip" length="7540334" type="application/octet-stream" sparkle:edSignature="Q9VKxJSRonUc6ru4xML4YSzg8HGZVpKzyGyikLmju2XRTzm54uw9ee0kFTmQnZ5yT11UAJXwIWjViRCv+xF4BQ=="></enclosure>
+            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.19-b78-load-geometry-test/MIDIPlayerMac-v1.0.19-b78-load-geometry-test.zip" length="7543507" type="application/octet-stream" sparkle:edSignature="RbmuePUqGAVBG7n3i7wWeDG5j6NlPrWTZyTYWEnLU1+fcotWhh7Ha++8wGleYLmwL8lCOk8qctBT++Gaj/bnDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: wA5bPDF4PldIHIwifHfvQQIeDh6sgPWPRjFflfHHpTFDHt4zkF7zAcjREd5VNz5hGh9cbmrSdB2mFp8qNCuwCw==
-length: 1123
+edSignature: yb1sTzVRRyHxHh76kn//yVRTaGRdowhdedTnJOovmoxCNTidWBzh94KGoLwAORNad8nbRZxxCEjOIfQqPYR/AA==
+length: 1117
 -->
