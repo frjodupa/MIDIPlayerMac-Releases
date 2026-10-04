@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MIDIPlayerMac</title>
         <item>
-            <title>1.0.19</title>
-            <pubDate>Sun, 04 Oct 2026 12:29:04 +0200</pubDate>
-            <sparkle:version>78</sparkle:version>
-            <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+            <title>1.0.20</title>
+            <pubDate>Sun, 04 Oct 2026 13:12:18 +0200</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.19-b78-load-geometry-test/MIDIPlayerMac-v1.0.19-b78-load-geometry-test.zip" length="7543507" type="application/octet-stream" sparkle:edSignature="RbmuePUqGAVBG7n3i7wWeDG5j6NlPrWTZyTYWEnLU1+fcotWhh7Ha++8wGleYLmwL8lCOk8qctBT++Gaj/bnDQ=="></enclosure>
+            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.20-b79-player-visual-test/MIDIPlayerMac-v1.0.20-b79-player-visual-test.zip" length="7604025" type="application/octet-stream" sparkle:edSignature="cNCylZoGgcvVbvltDpx7DTePNKgUKDwmdlgIesicekU52gptTm6YSISLH970aGGd4zYizm8cRNxwe0T0niJSBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: yb1sTzVRRyHxHh76kn//yVRTaGRdowhdedTnJOovmoxCNTidWBzh94KGoLwAORNad8nbRZxxCEjOIfQqPYR/AA==
+edSignature: Oy+XJyrdaPNYgKHRzuh5fBNopFrDwi2cNkqVaKqNbjewwd9lq5xUdgSrF4iZFx22NNY0EpinOW/e3qEeF7BsCQ==
 length: 1117
 -->
