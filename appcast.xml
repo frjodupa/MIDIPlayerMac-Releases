@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MIDIPlayerMac</title>
         <item>
-            <title>1.0.24</title>
-            <pubDate>Sun, 04 Oct 2026 14:50:34 +0200</pubDate>
-            <sparkle:version>83</sparkle:version>
-            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            <title>1.0.26</title>
+            <pubDate>Sun, 04 Oct 2026 16:22:36 +0200</pubDate>
+            <sparkle:version>85</sparkle:version>
+            <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.24-b83-status-karaoke-test/MIDIPlayerMac-v1.0.24-b83-status-karaoke-test.zip" length="7620271" type="application/octet-stream" sparkle:edSignature="19tScTbwjMBDO6xW/bBMaypFaVa9hV+Dsr1ftyTzUYV9vR4SWMwJpwOetPwzQ8asEfoD+1yvccggMj3riSwlDA=="></enclosure>
+            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.26-b85-cold-start-diagnostic/MIDIPlayerMac-v1.0.26-b85-cold-start-diagnostic.zip" length="7417653" type="application/octet-stream" sparkle:edSignature="ZIjCkrRALNnpqpb+WnHe5KXhgnVDG8CYhLYR5i4DR4vookrBmw0fmZ41opJcaI3Fi/e5ObFaaTX9NmpKEKW8CA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Fjly8+vGRtbWjM7DMLQsCA5Ej/vtYWYCIpsSoK942R7zwse2S5zaTzbEyaCFD8xCNC5kc0/C6af3H+EUeMQEDw==
-length: 1119
+edSignature: 4FTTkOwIcGC3CSa1KVvfFxlUaAshWIyMFclVBtRL4gR+8K+0lw8rcykhBI9bj4QTnB91ckY1L59KyuPSTP/CDA==
+length: 1123
 -->
