@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MIDIPlayerMac</title>
         <item>
-            <title>1.0.30</title>
-            <pubDate>Sun, 04 Oct 2026 22:20:14 +0200</pubDate>
-            <sparkle:version>89</sparkle:version>
-            <sparkle:shortVersionString>1.0.30</sparkle:shortVersionString>
+            <title>1.0.31</title>
+            <pubDate>Sun, 04 Oct 2026 23:08:54 +0200</pubDate>
+            <sparkle:version>90</sparkle:version>
+            <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.30-b89-startup-auditor-diagnostic/MIDIPlayerMac-v1.0.30-b89-startup-auditor-diagnostic.zip" length="7620935" type="application/octet-stream" sparkle:edSignature="3bIKSLY/joRZbPKydfKPt39Sg3GxaK4GHmOMvHcgsOcGwxtZJyo1QkxDa9jIBvU78CAn4q6tTugL6BNFumRpCg=="></enclosure>
+            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.31-b90-startup-loading-fix/MIDIPlayerMac-v1.0.31-b90-startup-loading-fix.zip" length="7619910" type="application/octet-stream" sparkle:edSignature="MGk+ISjYQIzf6atKJXVRf//t/olnL30Bmw+kx/sBZD6rD5fffCHH1SopUT1VmfxDEF+144QWqJdMggkCNf9/Aw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: mFY40nmaaVwal1+iN5drSSAOsOnHT3VOpQ9T3hlKYdzqPa4WRybb6+kWlxLKgkXW03Ex+kdeDF+Kr8N48ov9Ag==
-length: 1133
+edSignature: 6qm09PciKThIeqKfLllfl2/L5KveD66EKEIeNALmkCqx2uCJK9H/w4vb2xQ9swRssXZDWUzSZAiD1SKGVdSSAQ==
+length: 1119
 -->
