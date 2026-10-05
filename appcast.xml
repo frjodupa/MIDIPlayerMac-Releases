@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MIDIPlayerMac</title>
         <item>
-            <title>1.0.32</title>
-            <pubDate>Mon, 05 Oct 2026 09:16:11 +0200</pubDate>
-            <sparkle:version>91</sparkle:version>
-            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
+            <title>1.0.33</title>
+            <pubDate>Mon, 05 Oct 2026 15:15:22 +0200</pubDate>
+            <sparkle:version>92</sparkle:version>
+            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.32-b91-midi-transition-diagnostic/MIDIPlayerMac-v1.0.32-b91-midi-transition-diagnostic.zip" length="7629132" type="application/octet-stream" sparkle:edSignature="ysWuTLqX8xsxNwN+OmFJZhCMyKNjAZrnssEB2DhsiQ75FMC1coodWN6uqG3x1zNJtbmlH1+Pju6TWiusMmN7Cw=="></enclosure>
+            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.33-b92-b86-core-recovery/MIDIPlayerMac-v1.0.33-b92-b86-core-recovery.zip" length="7572100" type="application/octet-stream" sparkle:edSignature="4sD7J6RenyAUpudB8ijmPorQlTXv9bPIkrzNrGPL2EqTJQ6zTPCnSCmZtOr5ymH0Y1a8ybO9L9zabmZa6l+sAQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: M4IRpHx0O4V24awfJdurb+D34ou6WfiKkAOgbkZk7ajJNmhdKUQ/wFBJvKuuJVP9bxuRdaxPh8ZwrfGCbMh5CA==
-length: 1133
+edSignature: pMltDlTjcyR/+ckQRQcTucTBeu0XeMnaoSDpX3gUirjHkvmRRr77y209Q7VOyOHopaHO2NTkB5vo4UIMHcM/Cw==
+length: 1115
 -->
