@@ -4,15 +4,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>MIDIPlayerMac</title>
         <item>
-            <title>1.0.34</title>
-            <pubDate>Mon, 05 Oct 2026 15:40:44 +0200</pubDate>
-            <sparkle:version>93</sparkle:version>
-            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
+            <title>1.0.35</title>
+            <pubDate>Mon, 05 Oct 2026 18:45:06 +0200</pubDate>
+            <sparkle:version>94</sparkle:version>
+            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.34-b93-normal-hit-test-diagnostic/MIDIPlayerMac-v1.0.34-b93-normal-hit-test-diagnostic.zip" length="7587217" type="application/octet-stream" sparkle:edSignature="x1ZGxS2s26YrqXvbzfkfcLKovawPT/8qsZ97DtlqTIT9pfglm0Z6bjMU2PBd4/Hmf7Lkpl5GVFcD9tepF3iDBw=="></enclosure>
+            <enclosure url="https://github.com/frjodupa/MIDIPlayerMac-Releases/releases/download/v1.0.35-b94-reconciled-bigsur-candidate/MIDIPlayerMac-v1.0.35-b94-reconciled-bigsur-candidate.zip" length="7649598" type="application/octet-stream" sparkle:edSignature="P5TIqB/52O4zeFBvcW5on1u0r5S/oMRQmkbkVHM0MUHyXJIPZoB04oS60QFaYbDPMJsHo2It/ehnQJGcZOd4Cw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /CZ1drVZIj7b6IFiXBTdtcOqWGrcjm0U5y66Gvp8lnOmaHdPxUkv3PgC4O2CnkQttVv80F4NNrj40glWixYSDw==
-length: 1133
+edSignature: yQ+GbxJekZKkSGRmxb/yiv87KP3OAu15aDT5mZY1bnAX8HVohZ59tfGqmbG2h4t+cfojbo659In6CuhZgiE4DA==
+length: 1135
 -->
